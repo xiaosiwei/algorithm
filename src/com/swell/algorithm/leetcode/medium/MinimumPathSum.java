@@ -25,10 +25,4 @@ public class MinimumPathSum {
 
         return result[result.length-1][result[0].length-1];
     }
-
-    public static void main(String[] args) {
-        MinimumPathSum minimumPathSum = new MinimumPathSum();
-        int[][] grid = {{1,3,1},{1,5,1},{4,2,1}};
-        System.out.println(minimumPathSum.minPathSum(grid));
-    }
 }

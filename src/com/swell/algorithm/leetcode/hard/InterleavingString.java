@@ -2,6 +2,7 @@ package com.swell.algorithm.leetcode.hard;
 
 /**
  * Created by xiaosiwei on 16/8/4.
+ * refer to : https://leetcode.com/problems/interleaving-string/
  */
 public class InterleavingString {
     public boolean isInterleave(String s1, String s2, String s3) {

@@ -2,6 +2,7 @@ package com.swell.algorithm.leetcode.hard;
 
 /**
  * Created by xiaosiwei on 16/8/12.
+ * Refer to : https://leetcode.com/problems/number-of-digit-one/
  */
 public class NumberOfDigitOne {
     public int countDigitOne(int n) {
